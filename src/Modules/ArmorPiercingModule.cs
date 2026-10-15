@@ -1,0 +1,1 @@
+namespace FarTrainer { public sealed class ArmorPiercingModule : ResourceModule {public override string Id {get{return "piercing";}} public override uint[] ResourceIds {get{return new uint[]{0xDB75EF64,0xDB6FDC2C,0xDB701FDD,0xDB72E621,0xDB745A94};}}} }

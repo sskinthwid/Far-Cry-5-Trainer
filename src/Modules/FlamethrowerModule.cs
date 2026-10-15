@@ -1,0 +1,1 @@
+namespace FarTrainer { public sealed class FlamethrowerModule : ResourceModule {public override string Id {get{return "flame";}} public override uint[] ResourceIds {get{return new uint[]{0xB3FA1F5A};}}} }

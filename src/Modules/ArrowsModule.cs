@@ -1,0 +1,1 @@
+namespace FarTrainer { public sealed class ArrowsModule : ResourceModule {public override string Id {get{return "arrows";}} public override uint[] ResourceIds {get{return new uint[]{0xEC1A4BAB,0xEC18BEA6,0xB3F9885B};}}} }
